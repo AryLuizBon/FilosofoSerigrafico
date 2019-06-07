@@ -2,7 +2,7 @@
 
 O "pessoal" da área de TI (tecnologia da informação) gosta de usar a palavra "arte" para se referir ao que houver de mais técnico dentro da sua área de atuação profissional. Outras aplicações da palavra arte se referem a "criação artística" ou seja, quadros, esculturas, ou jóias e artesanatos. Para mencionar algo realizado /produzido industrialmente dentro do padrão de melhores práticas e resultados excelentes, costuma-se dizer "estado da arte".
 
-### <c>_Será que a palavra **"arte"** se aplica à serigrafia...?_
+    _Será que a palavra **"arte"** se aplica à serigrafia...?_
 
 Se formos à etimologia da palavra "tecnologia", do grego teremos "Techne" que signofica na verdade "arte ou ofício" e "logia" significando o saber. A tradução mais exata para o primeiro sentido da palavra tecnologia seria portanto, "saber fazer".
 Arte no contexto de algo que foi produzido, é a abgregação de valor ou seja, um reconhecimento da qualidade.
