@@ -9,8 +9,8 @@ Se formos à etimologia da palavra "tecnologia", do grego teremos "Techne" que s
 A arte no contexto de algo que foi produzido, é a agregação de valor ou seja, um reconhecimento da qualidade.
 Mas também falamos de "arte" quando algo foi "criado" e particularmente no ambito da estética.
 O "artista" no caso pode ser um músico ou um compositor (ne todo músico compõe) ou um pintor, escultor, cineasta, ou indo mais longe, artes cênicas, circo, teatro, literatura. Obras de arte são todas as concepções acima, e é esperado um resultado "excelente" ou "único do tipo" quanto a percepção de valor de cada produção destas.
- 
- ### O sentido das palavras
+
+### O sentido das palavras
 
 As palavras são particularmente enganosas quando se referem a intangíveis como o "valor" e quando uma mesma palavra pode se referir a uma infinidade de coisas. Um serígrafo pode perfeitamente bem ser um "artista", mas este (no caso) adjetivo não é uma garantia de que tudo o que ele faz esteja sob o seu próprio controle. A experimentação que faz parte do trabalho de um artista da estética para obter resultados "únicos do tipo" ou "originais" pode ser inadequado a serviços gráficos por encomenda, por exemplo. E neste caso, o significado de arte x técnica podem correr o risco de se tornarem antagônicos.
 
