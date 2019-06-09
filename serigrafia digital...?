@@ -1,4 +1,4 @@
-# serigrafia e inkjet - semelhanças e diferenças
+# Serigrafia e inkjet - semelhanças e diferenças
 
 Ambos os processos de impressão fazem a tinta atravessar a forma gráfica.
 Mas, como sempre digo, a serigrafia é um processo tri-dimensional e enquanto formatura gráfica, a inkjet é bidimensional.
@@ -14,3 +14,34 @@ Uma tentativa de "acertar" isso vem com o desenvolvimento de cabeças inkjet com
 A real importancia da filosofia por trás dos sistemas de impressão é a capacidade em gerar aplicações práticas. A tridimensionalidade da serigrafia permitiu por exemplo desenvolver aplicações eletronicas concorrendo com vantagem contra outras técnicas de fotofabricação no passado. A miniaturização da eletronica e a redução do custo de fotoresistes fez com que neste segmento industrial a serigrafia seja atualmente relegada a um segundo plano. Possívelmente com o desenvolvimento de fibras mais finas para serigrafia algo mude no ambito das aplicações eletronicas. Mas não vejo esta possibilidade hoje em aplicações de inkjet, por exemplo (e tentativas estão sendo feitas...)
 
 Bem... filosofia, né? 
+
+You can use the editor on GitHub to maintain and preview the content for your website in Markdown files.
+
+Whenever you commit to this repository, GitHub Pages will run Jekyll to rebuild the pages in your site, from the content in your Markdown files.
+Markdown
+
+Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+
+Syntax highlighted code block
+
+# Header 1
+## Header 2
+### Header 3
+
+- Bulleted
+- List teremos 
+
+1. Numbered
+2. List
+
+**Bold** and _Italic_ and `Code` text
+
+[Link](url) and ![Image](src)
+
+For more details see GitHub Flavored Markdown.
+Jekyll Themes
+
+Your Pages site will use the layout and styles from the Jekyll theme you have selected in your repository settings. The name of this theme is saved in the Jekyll _config.yml configuration file.
+Support or Contact
+
+Having trouble with Pages? Check out our documentation or contact support and we’ll help you sort it out.
