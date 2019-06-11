@@ -1,9 +1,12 @@
 ## Traquitanas digitais
 
 Atire a primeira pedra quem já não ficou PUTO nas calças com as coisinhas digitais.
+A revolução (?) tecnológica nos trouxe soluções para problemas que não tínhamos antes do advento desta mesma. Ou melhor: toda estratégia de marketing da tecnologia (da informação) e aplicações digitais aponta para a conveniênioa, em detrimento da qualidade. Exemplos há nas artes gráficas.
 
 Tenho ouvido dos fornecedores das tralhas digitais que não precisa isto, não precisa aquilo, "just push PLAY" (trilha sonora do Aerosmith aqui).
-A conversa mole corre por conta de quem vende a referida tralha, bando de IGNORANTES que não tem a menor ideia do que estão vendendo. Os produtores, por outro lado, ficam entre manter a coisa assim porque "vender é tudo", ou simplesmente porque não tem idéia real do que está envolvido técnicamente no businesss dos seus clientes.
+A conversa mole corre por conta de quem vende a referida tralha, IGNORANTES sobre o que estão realmente vendendo. Os produtores, por outro lado, ficam entre manter a coisa assim porque "vender é tudo", ou simplesmente por não tem idéia real do que está envolvido técnicamente no business dos seus clientes. Alguém perguntaria, "está errado?"
+
+### Aplicações digitais na pré-impressão serigráfica
 
 Fabricantes de CTS me dizendo que "...não precisa linearizar, porque o equipamento é digital, não tem variação". Fabricantes de gravadoras de cilindro roto dizendo que ..."basta uma curva para tudo, porque o equipamento não varia e roto não tem ganho de ponto". Fabricantes de impressoras inkjet tentando fornecer perfis genéricos, motivos idem acima. E por aí vai.
 
